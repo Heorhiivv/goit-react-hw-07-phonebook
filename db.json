@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "name": "john mcleyn",
+      "number": "12345",
+      "id": 1
+    },
+    {
+      "name": "bilbo beggins",
+      "number": "02",
+      "id": 3
+    },
+    {
+      "name": "dunkan mcloud",
+      "number": "1994",
+      "id": 5
+    }
+  ]
+}
